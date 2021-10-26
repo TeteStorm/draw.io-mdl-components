@@ -1,5 +1,5 @@
 # draw.io-mdl-components
-MDL Componets for Draw.io (https://app.diagrams.net/)
+MDL Components for Draw.io (https://app.diagrams.net/)
 
 #### About MDL
 http://www.aboutmda.com/mdl.html
